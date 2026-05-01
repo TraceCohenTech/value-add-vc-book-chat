@@ -1,0 +1,16 @@
+{
+  "number": 4,
+  "title": "Enterprise AI Adoption",
+  "slug": "enterprise-ai-adoption",
+  "part": "THE VERTICAL AI REVOLUTION",
+  "partNumber": 2,
+  "excerpt": "Enterprise AI adoption is slow not because the technology doesn't work. The tools are ready. The users are ready. The problem is institutional: misaligned incentives across executives, middle managers, and individual contributors create bottlenecks that technology alone cannot solve.\n\nThe data reveals a troubling pattern. Among Fortune 500 companies, about forty percent claim to have deployed AI in production. But only eighteen percent report that AI generates measurable ROI. In the mid-market, twenty percent claim deployment but just eight percent see returns. For SMBs, the numbers are ten percent and four percent respectively.\n\nThe gap is striking: deployment claims far exceed actual value creation. Most \"deployments\" are pilots that never scale.",
+  "stats": [],
+  "takeaways": [
+    "Individual contributors say \"Why should I train my replacement?\" What they want is job security and fair compensation.",
+    "Enterprises can assess their AI readiness across six factors.",
+    "The build versus buy decision should usually favor buying.",
+    "Without that proprietary data, you should still buy—you can't replicate what specialized vendors have accumulated.",
+    "The reality is that ninety percent or more of enterprises should buy AI solutions rather than building them."
+  ]
+}

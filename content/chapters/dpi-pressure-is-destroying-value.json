@@ -1,0 +1,20 @@
+{
+  "number": 8,
+  "title": "DPI Pressure Is Destroying Value",
+  "slug": "dpi-pressure-is-destroying-value",
+  "part": "THE CAPITAL STACK",
+  "partNumber": 3,
+  "excerpt": "The demand for early distributions to paid-in capital is killing bold investments and damaging long-term returns. LPs understandably want their money back, but the timing and structure of these demands is counterproductive.\n\nThe DPI timeline has accelerated dramatically. In 2019, the median first meaningful distribution came in year six of a fund's life. By 2024, that pressure had shifted to year four. Expected DPI by year five went from 0.3x to 0.5x. Earliest distribution requests moved from year three to year two. This acceleration forces behavior that destroys value.\n\nWhen GPs face pressure to generate early DPI, they make decisions that look good in the short term but harm returns. They push for early exits at lower valuations rather than holding for larger outcomes. They sell winners too soon to show distributions. They avoid investments that need longer time horizons. They participate in secondary sales that lock in discounts. They prioritize small certain returns over large uncertain ones.",
+  "stats": [
+    "Expected DPI by year five went from 0.3x to 0.5x",
+    "Consider a company that could exit for $500 million in seven years or $200 million in four years",
+    "The seven-year exit generates $50 million at ten percent ownership, contributing 0.5x DPI to a $100 million fund",
+    "The four-year exit generates $20 million, contributing 0.2x DPI"
+  ],
+  "takeaways": [
+    "LPs understandably want their money back, but the timing and structure of these demands is counterproductive.",
+    "Consider a company that could exit for $500 million in seven years or $200 million in four years.",
+    "LPs expected quick returns based on fast rounds.",
+    "Don't raise from LPs who will pressure you into bad decisions."
+  ]
+}

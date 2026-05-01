@@ -1,0 +1,20 @@
+{
+  "number": 9,
+  "title": "VC Is in the Exit Business",
+  "slug": "vc-is-in-the-exit-business",
+  "part": "EXITS AND LIQUIDITY",
+  "partNumber": 4,
+  "excerpt": "Most discussions about venture capital focus on investing: finding great companies, winning deals, adding value to portfolios. This emphasis is backwards. Venture capital is fundamentally in the business of exits. Everything else—sourcing, evaluation, portfolio support—exists to enable exits. Without exits, none of the rest matters.\n\nThis isn't cynical; it's structural. LPs commit capital with the expectation of receiving it back, plus returns. GPs receive carry only when profits are realized. Founders get liquidity only through exits. All incentives point toward getting companies sold or public.\n\nYet exit focus is often absent from VC decision-making. Investors evaluate opportunities based on team quality, market size, product differentiation, and competitive dynamics. They build portfolio support functions around operational improvement. They measure success through metrics like TVPI and markups. But they frequently don't ask the fundamental question: who will buy this company, and at what price?",
+  "stats": [
+    "Required scale is usually $30 million or more in ARR for meaningful acquisitions",
+    "Companies typically need $200 million or more in revenue with strong growth",
+    "If your fund needs $500 million in exits to generate target returns, map out how you get there"
+  ],
+  "takeaways": [
+    "LPs commit capital with the expectation of receiving it back, plus returns.",
+    "GPs receive carry only when profits are realized.",
+    "Founders get liquidity only through exits.",
+    "Investors evaluate opportunities based on team quality, market size, product differentiation, and competitive dynamics.",
+    "But they frequently don't ask the fundamental question: who will buy this company, and at what price?  Every investment decision should start with exit analysis."
+  ]
+}

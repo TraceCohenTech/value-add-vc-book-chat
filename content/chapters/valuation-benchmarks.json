@@ -1,0 +1,21 @@
+{
+  "number": 17,
+  "title": "Valuation Benchmarks",
+  "slug": "valuation-benchmarks",
+  "part": "PRACTICAL FRAMEWORKS",
+  "partNumber": 6,
+  "excerpt": "Valuation expectations have reset significantly from the 2021 peak. Understanding current benchmarks helps founders set realistic expectations and helps investors evaluate opportunities.\n\nFor pre-seed companies with a team and idea but no product, valuations typically range from $3 million to $8 million pre-money. Investors are betting on people and vision.\n\nFor seed companies with a product and initial users but limited revenue, valuations range from $8 million to $20 million pre-money. Some traction is expected but metrics are nascent.",
+  "stats": [
+    "For pre-seed companies with a team and idea but no product, valuations typically range from $3 million to $8 million pre-money",
+    "For seed companies with a product and initial users but limited revenue, valuations range from $8 million to $20 million pre-money",
+    "For Series A companies, which should have $1 million to $3 million in ARR with strong growth, valuations range from $30 million to $80 million pre-money, representing roughly ten to thirty times ARR",
+    "For Series B companies with $5 million to $15 million in ARR and demonstrated unit economics, valuations range from $80 million to $250 million pre-money, roughly eight to twenty times ARR"
+  ],
+  "takeaways": [
+    "These ranges vary by sector, growth rate, team quality, and market conditions.",
+    "Companies with slower growth trade at discounts.",
+    "The most important valuation advice: don't optimize for it.",
+    "A higher valuation with misaligned investors is worse than a lower valuation with great partners.",
+    "Valuation matters, but it's not the only thing that matters."
+  ]
+}

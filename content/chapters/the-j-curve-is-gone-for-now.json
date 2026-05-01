@@ -1,0 +1,21 @@
+{
+  "number": 2,
+  "title": "The J-Curve Is Gone (For Now)",
+  "slug": "the-j-curve-is-gone-for-now",
+  "part": "THE MARKET",
+  "partNumber": 1,
+  "excerpt": "The traditional venture fund J-curve—where fund value declines in the early years before rising sharply as investments mature—has effectively flattened. Funds raised in 2021 and 2022 marked up their portfolios aggressively during the boom, then watched those values go flat as companies grew into their inflated valuations without new exit opportunities.\n\nHistorically, fund value would dip ten to twenty percent in years one and two as management fees were drawn and early investments hadn't yet appreciated. Then, between years five and seven, successful exits would drive returns to two or three times committed capital. The current pattern looks nothing like this. Instead, funds spiked to 1.5x or 2x paper value by year two, then flatlined to year five and beyond.\n\nThe math of what happened is straightforward. In 2021, venture capital deployed $330 billion—roughly double a normal year. Valuations soared to two to three standard deviations above historical means. Companies raised rounds every six to nine months, generating rapid paper gains. Exit activity was strong, which encouraged even more aggressive deployment.",
+  "stats": [
+    "Instead, funds spiked to 1.5x or 2x paper value by year two, then flatlined to year five and beyond",
+    "In 2021, venture capital deployed $330 billion—roughly double a normal year",
+    "Consider a hypothetical $100 million fund raised in 2021",
+    "In year one, the manager deployed $30 million across ten companies at an average entry valuation of $20 million"
+  ],
+  "takeaways": [
+    "Consider a hypothetical $100 million fund raised in 2021.",
+    "LPs are starting to ask: \"When do we see real returns?\"  The gap between expectations and reality is substantial.",
+    "What should different players take from this?  Limited Partners shouldn't panic-sell on secondary markets at forty percent or greater discounts.",
+    "General Partners must be honest about marks.",
+    "Focus on helping portfolio companies reach profitability, which gives them control over their own destiny."
+  ]
+}

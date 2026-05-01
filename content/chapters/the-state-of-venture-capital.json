@@ -1,0 +1,21 @@
+{
+  "number": 1,
+  "title": "The State of Venture Capital",
+  "slug": "the-state-of-venture-capital",
+  "part": "THE MARKET",
+  "partNumber": 1,
+  "excerpt": "The venture capital market from 2024 to 2026 isn't dead—it's undergoing a fundamental restructuring. Capital is concentrating into fewer, larger winners while the middle market hollows out. Understanding this bifurcation is essential for everyone in the ecosystem.\n\nThe numbers tell a stark story. Total venture capital deployed dropped from $330 billion at the 2021 peak to roughly $170 billion by 2024—a decline of nearly fifty percent. The number of deals fell by a similar proportion, from over 17,000 to around 9,500. Median valuations at every stage contracted: seed valuations dropped twenty percent, Series A fell by about eleven percent, and Series B valuations declined by a third. Perhaps most telling, the number of funds raised collapsed by sixty-four percent, from over 1,100 to approximately 400.\n\nAt the same time, the frequency of down rounds quadrupled, going from five percent of all deals to twenty percent. This isn't a minor correction—it's a fundamental repricing of the entire asset class.",
+  "stats": [
+    "Total venture capital deployed dropped from $330 billion at the 2021 peak to roughly $170 billion by 2024—a decline of nearly fifty percent",
+    "The number of deals fell by a similar proportion, from over 17,000 to around 9,500",
+    "Perhaps most telling, the number of funds raised collapsed by sixty-four percent, from over 1,100 to approximately 400",
+    "Since 2022, LPs have been called for over $400 billion in capital contributions, but they've received only about $200 billion in distributions"
+  ],
+  "takeaways": [
+    "What does this mean for each player in the ecosystem?  If you're a founder, raise capital when you can, not when you must.",
+    "Consider emerging managers seriously; they'll give you more attention and make faster decisions.",
+    "Focus on ownership percentage rather than check size.",
+    "By 2025, we should see early signs: select IPOs returning, M&A activity picking up, and AI driving a new investment cycle.",
+    "By 2026, the IPO window should open wider, LP distributions should increase, and fund formation should rebound."
+  ]
+}

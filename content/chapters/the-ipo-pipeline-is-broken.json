@@ -1,0 +1,20 @@
+{
+  "number": 10,
+  "title": "The IPO Pipeline Is Broken",
+  "slug": "the-ipo-pipeline-is-broken",
+  "part": "EXITS AND LIQUIDITY",
+  "partNumber": 4,
+  "excerpt": "The path to public markets—historically the primary way venture-backed companies returned capital to investors—is severely impaired. Companies are staying private far longer than they used to, and the IPO market has become increasingly selective.\n\nIn 2000, the median age of a company at IPO was four years. By 2024, it had reached thirteen years. The median revenue at IPO went from $20 million to over $200 million. The percentage of unprofitable companies going public dropped from eighty-five percent to forty percent. Total venture-backed IPOs fell from over 300 annually to fewer than fifty.\n\nThis shift has profound implications. VCs designed funds around seven to ten year horizons. With companies taking thirteen years to go public, the entire model is strained. More value accrues in private markets, benefiting early employees less as their equity vests long before liquidity. The pool of investors who can participate in growth-stage companies has shrunk as fewer individual investors can access private opportunities.",
+  "stats": [
+    "The median revenue at IPO went from $20 million to over $200 million",
+    "Total venture-backed IPOs fell from over 300 annually to fewer than fifty",
+    "Companies with $50 billion private valuations can't easily go public—the market can't absorb them"
+  ],
+  "takeaways": [
+    "Companies with clear paths to sustainable free cash flow.",
+    "For GPs and founders, the implications are significant.",
+    "Build companies that can go public—that means focusing on profitability and durable unit economics, not just growth.",
+    "Develop relationships with potential acquirers as a backup path.",
+    "Consider employee liquidity programs to retain talent during extended private periods."
+  ]
+}

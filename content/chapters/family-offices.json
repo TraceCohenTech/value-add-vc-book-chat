@@ -1,0 +1,20 @@
+{
+  "number": 7,
+  "title": "Family Offices",
+  "slug": "family-offices",
+  "part": "THE CAPITAL STACK",
+  "partNumber": 3,
+  "excerpt": "Family offices are the unsung heroes of early-stage venture capital. Without them, most emerging managers couldn't raise their first fund, and the pre-seed and seed market would be dramatically smaller. But family offices are not VCs—they have different goals, different timelines, and different expectations.\n\nThe numbers tell the story. In a typical emerging manager's Fund I or Fund II, family offices provide roughly sixty percent of committed capital. High-net-worth individuals contribute another eighteen percent. Fund of funds add ten percent, institutions contribute eight percent, and other sources make up the balance.\n\nWithout family offices, most first-time fund managers simply couldn't exist.",
+  "stats": [
+    "Family offices write checks ranging from $100,000 to $10 million based on relationship and interest; VCs deploy according to defined fund strategy",
+    "They invest in a hands-on, angel-like style with typical checks of $250,000 to $2 million",
+    "Checks range from $1 million to $10 million if they participate at all",
+    "Checks range from $2 million to $20 million"
+  ],
+  "takeaways": [
+    "Always start with relationship building.",
+    "GPs should build family office relationships years before you need them and remember that every family office is different—understand their unique situation.",
+    "Founders should consider family offices as strategic angels since they often have industry expertise and patient capital.",
+    "Everyone should recognize that family offices are the backbone of early-stage venture, even though they rarely get credit for it."
+  ]
+}

@@ -14,17 +14,34 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Ask the Value Add VC Book | AI Chat",
+  title: {
+    default: "The Value Add VC — Venture Capital in the AI Era | Trace Cohen",
+    template: "%s | The Value Add VC",
+  },
   description:
-    "Chat with an AI trained on The Value Add VC Handbook — 22 chapters on fundraising, fund economics, and venture capital in the AI era by Trace Cohen.",
+    "20 chapters of actionable insights on fundraising, fund economics, vertical AI, and venture capital — by Trace Cohen. Read free online or download.",
+  metadataBase: new URL("https://value-add-vc-book-chat.vercel.app"),
   openGraph: {
-    title: "Ask the Value Add VC Book",
+    title: "The Value Add VC — Venture Capital in the AI Era",
     description:
-      "Chat with an AI trained on The Value Add VC Handbook by Trace Cohen.",
+      "20 chapters of actionable VC insights by Trace Cohen. Fundraising, fund economics, vertical AI, and more.",
+    images: ["/book-cover.png"],
+    type: "website",
+    siteName: "The Value Add VC",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "The Value Add VC — Venture Capital in the AI Era",
+    description:
+      "20 chapters of actionable VC insights by Trace Cohen.",
+    creator: "@Trace_Cohen",
     images: ["/book-cover.png"],
   },
   icons: {
     icon: "/favicon.svg",
+  },
+  alternates: {
+    canonical: "https://value-add-vc-book-chat.vercel.app",
   },
 };
 
@@ -38,6 +55,27 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-[#0a0e14] text-white`}
       >
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Book",
+              name: "The Value Add VC: Cheering From the Sidelines",
+              author: {
+                "@type": "Person",
+                name: "Trace Cohen",
+                url: "https://x.com/Trace_Cohen",
+              },
+              description:
+                "A Practical Guide to Venture Capital in the AI Era — 20 chapters on fundraising, fund economics, and vertical AI.",
+              image: "https://value-add-vc-book-chat.vercel.app/book-cover.png",
+              url: "https://value-add-vc-book-chat.vercel.app",
+              numberOfPages: 20,
+              bookFormat: "https://schema.org/EBook",
+            }),
+          }}
+        />
         {children}
       </body>
     </html>

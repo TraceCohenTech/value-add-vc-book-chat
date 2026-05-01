@@ -1,0 +1,18 @@
+{
+  "number": 13,
+  "title": "Build vs. Buy—Why Enterprises Must Buy",
+  "slug": "build-vs-buy-why-enterprises-must-buy",
+  "part": "BIG TECH AND INFRASTRUCTURE",
+  "partNumber": 5,
+  "excerpt": "The question of whether to build AI capabilities internally or buy them from specialized vendors has a clear answer for most enterprises: buy.\n\nBuilding AI internally requires specialized talent that's extremely scarce and expensive. A competitive AI team needs machine learning engineers, data engineers, ML ops specialists, and researchers. These people command $500,000 to $1 million or more in total compensation. Recruiting and retaining them is a challenge for all but the most attractive employers.\n\nBuilding also requires infrastructure investment. Training AI models requires substantial compute resources. Managing model deployment and monitoring requires specialized systems. The infrastructure investment for enterprise-scale AI runs into millions of dollars.",
+  "stats": [
+    "These people command $500,000 to $1 million or more in total compensation"
+  ],
+  "takeaways": [
+    "Does AI provide competitive differentiation in your core product? If no, buy.",
+    "If yes, is AI your core business? If no, buy.",
+    "If yes, do you have proprietary data that creates genuine advantage? If no, buy.",
+    "The reality is that ninety percent or more of enterprises should buy AI solutions.",
+    "Building makes sense only for companies where AI is the core product and they have both the proprietary data and the organizational capability to execute."
+  ]
+}

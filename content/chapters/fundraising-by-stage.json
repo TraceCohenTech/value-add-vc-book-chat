@@ -1,0 +1,21 @@
+{
+  "number": 15,
+  "title": "Fundraising by Stage",
+  "slug": "fundraising-by-stage",
+  "part": "PRACTICAL FRAMEWORKS",
+  "partNumber": 6,
+  "excerpt": "The mechanics of fundraising differ significantly by stage. What works for pre-seed doesn't work for Series B. Understanding these differences is crucial for founders.\n\nAt the pre-seed stage, you're typically raising $500,000 to $2 million to prove that the founding team can build something. Investors are betting on people, not metrics. The pitch focuses on founder-market fit, initial insights, and the vision. Valuations range from $5 million to $15 million pre-money. The investor base is angels, pre-seed funds, and some seed funds. Due diligence is light—investors are making conviction bets.\n\nAt seed stage, you're raising $2 million to $5 million to prove initial product-market fit. Investors want to see early traction: users, engagement, initial revenue. The pitch combines team with evidence of customer pull. Valuations range from $10 million to $25 million pre-money. Investors are seed funds, some multi-stage funds, and angels investing larger amounts. Due diligence is moderate—investors want to understand the market and the early evidence.",
+  "stats": [
+    "At the pre-seed stage, you're typically raising $500,000 to $2 million to prove that the founding team can build something",
+    "Valuations range from $5 million to $15 million pre-money",
+    "At seed stage, you're raising $2 million to $5 million to prove initial product-market fit",
+    "Valuations range from $10 million to $25 million pre-money"
+  ],
+  "takeaways": [
+    "Investors are betting on people, not metrics.",
+    "Investors want to see early traction: users, engagement, initial revenue.",
+    "Investors are seed funds, some multi-stage funds, and angels investing larger amounts.",
+    "Investors need to see meaningful traction: typically $1 million to $3 million in ARR with strong growth.",
+    "Investors are Series A specialists and multi-stage funds."
+  ]
+}

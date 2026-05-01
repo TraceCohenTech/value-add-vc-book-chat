@@ -1,0 +1,21 @@
+{
+  "number": 20,
+  "title": "Founder Assessment",
+  "slug": "founder-assessment",
+  "part": "DUE DILIGENCE",
+  "partNumber": 8,
+  "excerpt": "Investors evaluating founders need frameworks that go beyond pattern matching. The best founders don't always look like previous success stories.\n\nFounder-market fit asks whether this person is uniquely suited to solve this problem. Do they have deep domain expertise or relevant experience? Do they understand the customer's pain viscerally? Do they have unfair advantages in building this particular company?\n\nExecution ability examines whether they can actually build. What have they accomplished previously? How do they make decisions? Can they recruit and lead a team? Do they learn and adapt quickly?",
+  "stats": [
+    "Exceptional companies with $3 million or more in ARR and demonstrated unit economics can reach $80-100 million",
+    "Greater than 120% is excellent; below 100% indicates net churn",
+    "For software, should exceed 70%",
+    "Should exceed 85% for SMB, 90% or more for enterprise"
+  ],
+  "takeaways": [
+    "Investors evaluating founders need frameworks that go beyond pattern matching.",
+    "The most important top-line metric for SaaS companies.",
+    "For software, should exceed 70%.",
+    "Should typically be under eighteen months for efficient businesses.",
+    "Should exceed 3:1 for healthy economics."
+  ]
+}

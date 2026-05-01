@@ -1,0 +1,363 @@
+[
+  {
+    "number": 1,
+    "title": "The State of Venture Capital",
+    "slug": "the-state-of-venture-capital",
+    "part": "THE MARKET",
+    "partNumber": 1,
+    "stats": [
+      "Total venture capital deployed dropped from $330 billion at the 2021 peak to roughly $170 billion by 2024—a decline of nearly fifty percent",
+      "The number of deals fell by a similar proportion, from over 17,000 to around 9,500",
+      "Perhaps most telling, the number of funds raised collapsed by sixty-four percent, from over 1,100 to approximately 400",
+      "Since 2022, LPs have been called for over $400 billion in capital contributions, but they've received only about $200 billion in distributions"
+    ],
+    "takeaways": [
+      "What does this mean for each player in the ecosystem?  If you're a founder, raise capital when you can, not when you must.",
+      "Consider emerging managers seriously; they'll give you more attention and make faster decisions.",
+      "Focus on ownership percentage rather than check size.",
+      "By 2025, we should see early signs: select IPOs returning, M&A activity picking up, and AI driving a new investment cycle.",
+      "By 2026, the IPO window should open wider, LP distributions should increase, and fund formation should rebound."
+    ]
+  },
+  {
+    "number": 2,
+    "title": "The J-Curve Is Gone (For Now)",
+    "slug": "the-j-curve-is-gone-for-now",
+    "part": "THE MARKET",
+    "partNumber": 1,
+    "stats": [
+      "Instead, funds spiked to 1.5x or 2x paper value by year two, then flatlined to year five and beyond",
+      "In 2021, venture capital deployed $330 billion—roughly double a normal year",
+      "Consider a hypothetical $100 million fund raised in 2021",
+      "In year one, the manager deployed $30 million across ten companies at an average entry valuation of $20 million"
+    ],
+    "takeaways": [
+      "Consider a hypothetical $100 million fund raised in 2021.",
+      "LPs are starting to ask: \"When do we see real returns?\"  The gap between expectations and reality is substantial.",
+      "What should different players take from this?  Limited Partners shouldn't panic-sell on secondary markets at forty percent or greater discounts.",
+      "General Partners must be honest about marks.",
+      "Focus on helping portfolio companies reach profitability, which gives them control over their own destiny."
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Why Vertical AI Wins",
+    "slug": "why-vertical-ai-wins",
+    "part": "THE VERTICAL AI REVOLUTION",
+    "partNumber": 2,
+    "stats": [
+      "That game belongs to Big Tech companies with their $50 billion-plus annual R&D budgets",
+      "More than 140 vertical AI startups have reached significant scale, with a combined valuation exceeding $120 billion",
+      "Healthcare and biotech lead with eighteen companies worth $24.5 billion combined",
+      "Financial services follows with fifteen companies worth $19.2 billion"
+    ],
+    "takeaways": [
+      "The biggest opportunity in artificial intelligence isn't building foundation models.",
+      "Founders should pick one vertical and go absurdly deep—you can't out-generalize OpenAI.",
+      "Investors should score every vertical AI deal against this framework and always ask \"What data do you have that OpenAI doesn't?\" Enterprises should buy vertical AI where it exists."
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Enterprise AI Adoption",
+    "slug": "enterprise-ai-adoption",
+    "part": "THE VERTICAL AI REVOLUTION",
+    "partNumber": 2,
+    "stats": [],
+    "takeaways": [
+      "Individual contributors say \"Why should I train my replacement?\" What they want is job security and fair compensation.",
+      "Enterprises can assess their AI readiness across six factors.",
+      "The build versus buy decision should usually favor buying.",
+      "Without that proprietary data, you should still buy—you can't replicate what specialized vendors have accumulated.",
+      "The reality is that ninety percent or more of enterprises should buy AI solutions rather than building them."
+    ]
+  },
+  {
+    "number": 5,
+    "title": "VC Fund Economics",
+    "slug": "vc-fund-economics",
+    "part": "THE CAPITAL STACK",
+    "partNumber": 3,
+    "stats": [
+      "Consider a typical $100 million fund",
+      "The structure includes a two percent annual management fee over ten years, totaling $20 million",
+      "Carried interest is twenty percent of profits above a 1x return",
+      "This means that of the $100 million committed by LPs, only $80 million is actually investable after management fees"
+    ],
+    "takeaways": [
+      "Consider a typical $100 million fund.",
+      "The fund must generate $360 million in gross returns.",
+      "That leaves just twenty percent as potential winners, and they must generate the bulk of returns.",
+      "The key metrics in venture capital are TVPI, DPI, RVPI, and IRR.",
+      "By years three and four, TVPI should reach 1.1x to 1.5x with DPI between zero and 0.2x."
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Emerging Managers",
+    "slug": "emerging-managers",
+    "part": "THE CAPITAL STACK",
+    "partNumber": 3,
+    "stats": [
+      "Emerging managers—those managing Funds I through III, typically under $100 million—consistently outperform established funds at early-stage investing",
+      "A $50 million fund with a $200 million exit gets a four-times contribution from that single deal",
+      "A $1 billion fund with the same $200 million exit barely moves the needle",
+      "In a single recent quarter, Andreessen Horowitz raised $7.2 billion—capturing roughly eighty percent of all venture LP commitments"
+    ],
+    "takeaways": [
+      "Founders lose capital for the earliest stages, investors who actually have time to help, diversity of funding options, and leverage in negotiations.",
+      "Emerging GPs should focus relentlessly on Fund I track record; everything else is noise.",
+      "Founders should take meetings with emerging managers; they're hungrier and more available.",
+      "Everyone should recognize that a healthy ecosystem needs diverse capital sources."
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Family Offices",
+    "slug": "family-offices",
+    "part": "THE CAPITAL STACK",
+    "partNumber": 3,
+    "stats": [
+      "Family offices write checks ranging from $100,000 to $10 million based on relationship and interest; VCs deploy according to defined fund strategy",
+      "They invest in a hands-on, angel-like style with typical checks of $250,000 to $2 million",
+      "Checks range from $1 million to $10 million if they participate at all",
+      "Checks range from $2 million to $20 million"
+    ],
+    "takeaways": [
+      "Always start with relationship building.",
+      "GPs should build family office relationships years before you need them and remember that every family office is different—understand their unique situation.",
+      "Founders should consider family offices as strategic angels since they often have industry expertise and patient capital.",
+      "Everyone should recognize that family offices are the backbone of early-stage venture, even though they rarely get credit for it."
+    ]
+  },
+  {
+    "number": 8,
+    "title": "DPI Pressure Is Destroying Value",
+    "slug": "dpi-pressure-is-destroying-value",
+    "part": "THE CAPITAL STACK",
+    "partNumber": 3,
+    "stats": [
+      "Expected DPI by year five went from 0.3x to 0.5x",
+      "Consider a company that could exit for $500 million in seven years or $200 million in four years",
+      "The seven-year exit generates $50 million at ten percent ownership, contributing 0.5x DPI to a $100 million fund",
+      "The four-year exit generates $20 million, contributing 0.2x DPI"
+    ],
+    "takeaways": [
+      "LPs understandably want their money back, but the timing and structure of these demands is counterproductive.",
+      "Consider a company that could exit for $500 million in seven years or $200 million in four years.",
+      "LPs expected quick returns based on fast rounds.",
+      "Don't raise from LPs who will pressure you into bad decisions."
+    ]
+  },
+  {
+    "number": 9,
+    "title": "VC Is in the Exit Business",
+    "slug": "vc-is-in-the-exit-business",
+    "part": "EXITS AND LIQUIDITY",
+    "partNumber": 4,
+    "stats": [
+      "Required scale is usually $30 million or more in ARR for meaningful acquisitions",
+      "Companies typically need $200 million or more in revenue with strong growth",
+      "If your fund needs $500 million in exits to generate target returns, map out how you get there"
+    ],
+    "takeaways": [
+      "LPs commit capital with the expectation of receiving it back, plus returns.",
+      "GPs receive carry only when profits are realized.",
+      "Founders get liquidity only through exits.",
+      "Investors evaluate opportunities based on team quality, market size, product differentiation, and competitive dynamics.",
+      "But they frequently don't ask the fundamental question: who will buy this company, and at what price?  Every investment decision should start with exit analysis."
+    ]
+  },
+  {
+    "number": 10,
+    "title": "The IPO Pipeline Is Broken",
+    "slug": "the-ipo-pipeline-is-broken",
+    "part": "EXITS AND LIQUIDITY",
+    "partNumber": 4,
+    "stats": [
+      "The median revenue at IPO went from $20 million to over $200 million",
+      "Total venture-backed IPOs fell from over 300 annually to fewer than fifty",
+      "Companies with $50 billion private valuations can't easily go public—the market can't absorb them"
+    ],
+    "takeaways": [
+      "Companies with clear paths to sustainable free cash flow.",
+      "For GPs and founders, the implications are significant.",
+      "Build companies that can go public—that means focusing on profitability and durable unit economics, not just growth.",
+      "Develop relationships with potential acquirers as a backup path.",
+      "Consider employee liquidity programs to retain talent during extended private periods."
+    ]
+  },
+  {
+    "number": 11,
+    "title": "M&A Is Dead—Long Live Hire and License",
+    "slug": "m-a-is-dead-long-live-hire-and-license",
+    "part": "EXITS AND LIQUIDITY",
+    "partNumber": 4,
+    "stats": [],
+    "takeaways": [
+      "Negotiate your employment package carefully—that may be where the real value lies.",
+      "For investors, adjust your exit expectations.",
+      "Traditional M&A may not be available for some portfolio companies.",
+      "Evaluate companies on their ability to reach profitability and independence.",
+      "Build relationships with potential acquirers early to understand their preferred transaction structures."
+    ]
+  },
+  {
+    "number": 12,
+    "title": "Secondaries Are Reshaping Liquidity",
+    "slug": "secondaries-are-reshaping-liquidity",
+    "part": "EXITS AND LIQUIDITY",
+    "partNumber": 4,
+    "stats": [
+      "Transaction volume reached $150 billion in 2023, up from $30 billion a decade earlier"
+    ],
+    "takeaways": [
+      "But understand pricing—secondary buyers are sophisticated and won't pay more than they need to.",
+      "Tax implications can be significant for large sales.",
+      "Secondaries are not a replacement for traditional exits, but they've become an essential part of the liquidity landscape.",
+      "Understanding how they work is important for everyone in the venture ecosystem.",
+      "---\n\n# PART V: BIG TECH AND INFRASTRUCTURE\n\n---."
+    ]
+  },
+  {
+    "number": 13,
+    "title": "Build vs. Buy—Why Enterprises Must Buy",
+    "slug": "build-vs-buy-why-enterprises-must-buy",
+    "part": "BIG TECH AND INFRASTRUCTURE",
+    "partNumber": 5,
+    "stats": [
+      "These people command $500,000 to $1 million or more in total compensation"
+    ],
+    "takeaways": [
+      "Does AI provide competitive differentiation in your core product? If no, buy.",
+      "If yes, is AI your core business? If no, buy.",
+      "If yes, do you have proprietary data that creates genuine advantage? If no, buy.",
+      "The reality is that ninety percent or more of enterprises should buy AI solutions.",
+      "Building makes sense only for companies where AI is the core product and they have both the proprietary data and the organizational capability to execute."
+    ]
+  },
+  {
+    "number": 14,
+    "title": "The Billion-Dollar Engineer",
+    "slug": "the-billion-dollar-engineer",
+    "part": "BIG TECH AND INFRASTRUCTURE",
+    "partNumber": 5,
+    "stats": [
+      "When Inflection AI essentially sold its team to Microsoft for around $650 million, the per-engineer price approached $100 million",
+      "Microsoft has a market capitalization exceeding $3 trillion",
+      "One percent of $3 trillion is $30 billion",
+      "Against that scale, paying $650 million for a world-class team is a rounding error"
+    ],
+    "takeaways": [
+      "Building an exceptional team is valuable, but the value may accrue through hiring transactions rather than equity.",
+      "Negotiate carefully to ensure value flows to the right places.",
+      "For investors, evaluate teams on their acquisition potential.",
+      "But recognize that acquirers are increasingly sophisticated about structuring transactions to minimize what flows to shareholders.",
+      "---\n\n# PART VI: PRACTICAL FRAMEWORKS\n\n---."
+    ]
+  },
+  {
+    "number": 15,
+    "title": "Fundraising by Stage",
+    "slug": "fundraising-by-stage",
+    "part": "PRACTICAL FRAMEWORKS",
+    "partNumber": 6,
+    "stats": [
+      "At the pre-seed stage, you're typically raising $500,000 to $2 million to prove that the founding team can build something",
+      "Valuations range from $5 million to $15 million pre-money",
+      "At seed stage, you're raising $2 million to $5 million to prove initial product-market fit",
+      "Valuations range from $10 million to $25 million pre-money"
+    ],
+    "takeaways": [
+      "Investors are betting on people, not metrics.",
+      "Investors want to see early traction: users, engagement, initial revenue.",
+      "Investors are seed funds, some multi-stage funds, and angels investing larger amounts.",
+      "Investors need to see meaningful traction: typically $1 million to $3 million in ARR with strong growth.",
+      "Investors are Series A specialists and multi-stage funds."
+    ]
+  },
+  {
+    "number": 16,
+    "title": "The Startup Fundamentals",
+    "slug": "the-startup-fundamentals",
+    "part": "PRACTICAL FRAMEWORKS",
+    "partNumber": 6,
+    "stats": [],
+    "takeaways": [
+      "Before chasing AI trends or market timing, founders must nail the fundamentals.",
+      "The math of acquiring and serving customers must be profitable.",
+      "Customer acquisition cost divided by customer lifetime value must yield a healthy ratio.",
+      "Payback periods should typically be eighteen months or less."
+    ]
+  },
+  {
+    "number": 17,
+    "title": "Valuation Benchmarks",
+    "slug": "valuation-benchmarks",
+    "part": "PRACTICAL FRAMEWORKS",
+    "partNumber": 6,
+    "stats": [
+      "For pre-seed companies with a team and idea but no product, valuations typically range from $3 million to $8 million pre-money",
+      "For seed companies with a product and initial users but limited revenue, valuations range from $8 million to $20 million pre-money",
+      "For Series A companies, which should have $1 million to $3 million in ARR with strong growth, valuations range from $30 million to $80 million pre-money, representing roughly ten to thirty times ARR",
+      "For Series B companies with $5 million to $15 million in ARR and demonstrated unit economics, valuations range from $80 million to $250 million pre-money, roughly eight to twenty times ARR"
+    ],
+    "takeaways": [
+      "These ranges vary by sector, growth rate, team quality, and market conditions.",
+      "Companies with slower growth trade at discounts.",
+      "The most important valuation advice: don't optimize for it.",
+      "A higher valuation with misaligned investors is worse than a lower valuation with great partners.",
+      "Valuation matters, but it's not the only thing that matters."
+    ]
+  },
+  {
+    "number": 18,
+    "title": "What Happens Next",
+    "slug": "what-happens-next",
+    "part": "THE FUTURE",
+    "partNumber": 7,
+    "stats": [],
+    "takeaways": [
+      "The great companies of the next decade are being built now.",
+      "Economic downturns clear out weak competitors and force discipline on survivors.",
+      "Founders building during difficult times develop skills and cultures that serve them well.",
+      "The next generation of category-defining companies is emerging from this period.",
+      "The best opportunities emerge when others are retreating."
+    ]
+  },
+  {
+    "number": 19,
+    "title": "LP Due Diligence on Fund Managers",
+    "slug": "lp-due-diligence-on-fund-managers",
+    "part": "DUE DILIGENCE",
+    "partNumber": 8,
+    "stats": [],
+    "takeaways": [
+      "The best LPs go beyond track record to understand what drives performance.",
+      "Raw returns matter, but attribution matters more.",
+      "They understand that a single fund is insufficient data for assessment.",
+      "They evaluate process and judgment, not just outcomes.",
+      "They recognize that the best managers often have unconventional approaches."
+    ]
+  },
+  {
+    "number": 20,
+    "title": "Founder Assessment",
+    "slug": "founder-assessment",
+    "part": "DUE DILIGENCE",
+    "partNumber": 8,
+    "stats": [
+      "Exceptional companies with $3 million or more in ARR and demonstrated unit economics can reach $80-100 million",
+      "Greater than 120% is excellent; below 100% indicates net churn",
+      "For software, should exceed 70%",
+      "Should exceed 85% for SMB, 90% or more for enterprise"
+    ],
+    "takeaways": [
+      "Investors evaluating founders need frameworks that go beyond pattern matching.",
+      "The most important top-line metric for SaaS companies.",
+      "For software, should exceed 70%.",
+      "Should typically be under eighteen months for efficient businesses.",
+      "Should exceed 3:1 for healthy economics."
+    ]
+  }
+]

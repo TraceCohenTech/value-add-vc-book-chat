@@ -1,0 +1,21 @@
+{
+  "number": 5,
+  "title": "VC Fund Economics",
+  "slug": "vc-fund-economics",
+  "part": "THE CAPITAL STACK",
+  "partNumber": 3,
+  "excerpt": "Most people—including many founders—don't understand how venture fund economics actually work. The math explains VC behavior: why investors need huge outcomes, why they pass on \"good\" deals, and why fund size determines strategy.\n\nConsider a typical $100 million fund. The structure includes a two percent annual management fee over ten years, totaling $20 million. Carried interest is twenty percent of profits above a 1x return. The General Partners commit one to two percent of the fund themselves, around $1-2 million. The fund life spans ten years with an optional two-year extension.\n\nThis means that of the $100 million committed by LPs, only $80 million is actually investable after management fees. That capital typically gets deployed across twenty to thirty companies, with average initial checks of $2-3 million each. Forty to fifty percent is reserved for follow-on investments.",
+  "stats": [
+    "Consider a typical $100 million fund",
+    "The structure includes a two percent annual management fee over ten years, totaling $20 million",
+    "Carried interest is twenty percent of profits above a 1x return",
+    "This means that of the $100 million committed by LPs, only $80 million is actually investable after management fees"
+  ],
+  "takeaways": [
+    "Consider a typical $100 million fund.",
+    "The fund must generate $360 million in gross returns.",
+    "That leaves just twenty percent as potential winners, and they must generate the bulk of returns.",
+    "The key metrics in venture capital are TVPI, DPI, RVPI, and IRR.",
+    "By years three and four, TVPI should reach 1.1x to 1.5x with DPI between zero and 0.2x."
+  ]
+}

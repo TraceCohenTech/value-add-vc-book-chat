@@ -1,0 +1,19 @@
+{
+  "number": 3,
+  "title": "Why Vertical AI Wins",
+  "slug": "why-vertical-ai-wins",
+  "part": "THE VERTICAL AI REVOLUTION",
+  "partNumber": 2,
+  "excerpt": "The biggest opportunity in artificial intelligence isn't building foundation models. That game belongs to Big Tech companies with their $50 billion-plus annual R&D budgets. The real opportunity lies in applying AI to specific industries with domain expertise, proprietary data, and deep workflow integration.\n\nVertical AI companies build moats that horizontal players simply cannot replicate.\n\nThe landscape already demonstrates this thesis. More than 140 vertical AI startups have reached significant scale, with a combined valuation exceeding $120 billion. Healthcare and biotech lead with eighteen companies worth $24.5 billion combined. Financial services follows with fifteen companies worth $19.2 billion. Legal tech has produced twelve companies worth nearly $9 billion. Manufacturing, logistics, real estate, construction, education, agriculture, energy, and retail each have meaningful representation.",
+  "stats": [
+    "That game belongs to Big Tech companies with their $50 billion-plus annual R&D budgets",
+    "More than 140 vertical AI startups have reached significant scale, with a combined valuation exceeding $120 billion",
+    "Healthcare and biotech lead with eighteen companies worth $24.5 billion combined",
+    "Financial services follows with fifteen companies worth $19.2 billion"
+  ],
+  "takeaways": [
+    "The biggest opportunity in artificial intelligence isn't building foundation models.",
+    "Founders should pick one vertical and go absurdly deep—you can't out-generalize OpenAI.",
+    "Investors should score every vertical AI deal against this framework and always ask \"What data do you have that OpenAI doesn't?\" Enterprises should buy vertical AI where it exists."
+  ]
+}
